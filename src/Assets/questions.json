@@ -1,0 +1,31 @@
+{
+    "Questions": [
+        {
+            "sentence": "A developer is designing a web application that allows the users to post comments and receive near\nreal-time feedback.",
+            "statement": "Which architectures meet these requirements? (Select TWO.)",
+            "c_answers": ["A) Create an AWS AppSync schema and corresponding APIs. Use an Amazon DynamoDB table as the data\nstore",
+                          "B) Create a WebSocket API in Amazon API Gateway. Use an AWS Lambda function as the backend and an\nAmazon DynamoDB table as the data store."],
+            "w_answers": ["C) Create an AWS Elastic Beanstalk application backed by an Amazon RDS database. Configure the\napplication to allow long-lived TCP/IP sockets",
+                          "D) Create a GraphQL endpoint in Amazon API Gateway. Use an Amazon DynamoDB table as the data\nstore.",
+                          "E) Enable WebSocket on Amazon CloudFront. Use an AWS Lambda function as the origin and an Amazon\nAurora DB cluster as the data store."]
+         },
+         {
+            "sentence": "A developer is designing a web application that allows the users to post comments and receive near\nreal-time feedback.",
+            "statement": "Which architectures meet these requirements? (Select TWO.)",
+            "c_answers": ["A) Create an AWS AppSync schema and corresponding APIs. Use an Amazon DynamoDB table as the data\nstore",
+                          "B) Create a WebSocket API in Amazon API Gateway. Use an AWS Lambda function as the backend and an\nAmazon DynamoDB table as the data store."],
+            "w_answers": ["C) Create an AWS Elastic Beanstalk application backed by an Amazon RDS database. Configure the\napplication to allow long-lived TCP/IP sockets",
+                          "D) Create a GraphQL endpoint in Amazon API Gateway. Use an Amazon DynamoDB table as the data\nstore.",
+                          "E) Enable WebSocket on Amazon CloudFront. Use an AWS Lambda function as the origin and an Amazon\nAurora DB cluster as the data store."]
+         },
+         {
+            "sentence": "A developer is designing a web application that allows the users to post comments and receive near\nreal-time feedback.",
+            "statement": "Which architectures meet these requirements? (Select TWO.)",
+            "c_answers": ["A) Create an AWS AppSync schema and corresponding APIs. Use an Amazon DynamoDB table as the data\nstore",
+                          "B) Create a WebSocket API in Amazon API Gateway. Use an AWS Lambda function as the backend and an\nAmazon DynamoDB table as the data store."],
+            "w_answers": ["C) Create an AWS Elastic Beanstalk application backed by an Amazon RDS database. Configure the\napplication to allow long-lived TCP/IP sockets",
+                          "D) Create a GraphQL endpoint in Amazon API Gateway. Use an Amazon DynamoDB table as the data\nstore.",
+                          "E) Enable WebSocket on Amazon CloudFront. Use an AWS Lambda function as the origin and an Amazon\nAurora DB cluster as the data store."]
+         }
+    ]
+}
